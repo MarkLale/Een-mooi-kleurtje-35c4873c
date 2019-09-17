@@ -5,11 +5,11 @@ a {
 
 /* All <h2> elements. */
 h2 {
-  color: pink;
+  color: blue;
 }
 
 li { font-size: x-large; }
 
-body{
-  background-color: teal;
-  color: white;
+body {
+background-color: #777799;
+color: #FFFFFF;
